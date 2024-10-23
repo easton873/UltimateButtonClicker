@@ -1,0 +1,1025 @@
+[
+    {
+        "name":"Tutorial",
+        "thing":"Click",
+        "thing_plural":"Clicks",
+        "summaryText":"Tutorial Clicks",
+        "color":"feecd3",
+        "bonus":"Bonus",
+        "bonus_plural":"Bonuses",
+        "bonus_rate": 1.0,
+        "bonus_cost": 100,
+        "winning_point":10,
+        "reward": 2,
+        "clickers": [
+            {
+                "name":"Idle Click Producer",
+                "clicksPerSecond":1.0,
+                "cost":10.0,
+                "costIncreaseRate":1.0
+            },
+            {
+                "name":"Increasing Cost Producer",
+                "clicksPerSecond":1.0,
+                "cost":1.0,
+                "costIncreaseRate":2.0
+            }
+        ]
+    },
+    {
+        "name":"Button",
+        "thing":"Click",
+        "thing_plural":"Clicks",
+        "summaryText":"Total Clicks",
+        "color":"a6c7c4",
+        "bonus":"Super Click",
+        "bonus_plural":"Super Clicks",
+        "bonus_rate": 1.0,
+        "bonus_cost": 1000000,
+        "winning_point":1000000000000,
+        "reward": 1,
+        "clickers": [
+            {
+                "name":"Interns",
+                "clicksPerSecond":1.0,
+                "cost":250.0,
+                "costIncreaseRate":1.1
+            },
+            {
+                "name":"Prodigy Interns",
+                "clicksPerSecond":10.0,
+                "cost":1200.0,
+                "costIncreaseRate":1.1
+            },
+            {
+                "name":"Workers",
+                "clicksPerSecond":20.0,
+                "cost":2000.0,
+                "costIncreaseRate":1.1
+            },
+            {
+                "name":"Higher Paid Workers",
+                "clicksPerSecond":35.0,
+                "cost":5000.0,
+                "costIncreaseRate":1.1
+            },
+            {
+                "name":"Even Higher Paid Workers",
+                "clicksPerSecond":70.0,
+                "cost":18000.0,
+                "costIncreaseRate":1.1
+            },
+            {
+                "name":"Small Office of Workers",
+                "clicksPerSecond":230.0,
+                "cost":55000.0,
+                "costIncreaseRate":1.1
+            },
+            {
+                "name":"Warehouse of Workers",
+                "clicksPerSecond":400.0,
+                "cost":100000.0,
+                "costIncreaseRate":1.1
+            },
+            {
+                "name":"Clicker Factories",
+                "clicksPerSecond":1100.0,
+                "cost":200000.0,
+                "costIncreaseRate":1.1
+            },
+            {
+                "name":"Clicker Plants",
+                "clicksPerSecond":4000.0,
+                "cost":400000.0,
+                "costIncreaseRate":1.1
+            },
+            {
+                "name":"MLM Clickers",
+                "clicksPerSecond":12000.0,
+                "cost":800000.0,
+                "costIncreaseRate":1.1
+            },
+            {
+                "name":"Hydro-Electric Clickers",
+                "clicksPerSecond":45000.0,
+                "cost":1000000.0,
+                "costIncreaseRate":1.1
+            },
+            {
+                "name":"Clicker Armies",
+                "clicksPerSecond":100000.0,
+                "cost":5000000.0,
+                "costIncreaseRate":1.1
+            }
+        ]
+    },
+    {
+        "name":"Money",
+        "thing":"Buck",
+        "thing_plural":"Bucks",
+        "bonus_plural":"Super Bucks",
+        "summaryText":"Money made",
+        "color":"72845c",
+        "bonus":"Super Buck",
+        "bonus_rate": 0.1,
+        "bonus_cost": 10000000,
+        "winning_point":5000000000000000,
+        "reward": 1,
+        "clickers": [
+            {
+                "name":"Shy Sales Guys",
+                "clicksPerSecond":0.1,
+                "cost":1.0,
+                "costIncreaseRate":1.1
+            },
+            {
+                "name":"Better Sales Guys",
+                "clicksPerSecond":1.0,
+                "cost":100.0,
+                "costIncreaseRate":1.1
+            },
+            {
+                "name":"Salesmen of the Year",
+                "clicksPerSecond":2.0,
+                "cost":250.0,
+                "costIncreaseRate":1.1
+            },
+            {
+                "name":"Sales Managers",
+                "clicksPerSecond":5.0,
+                "cost":500.0,
+                "costIncreaseRate":1.1
+            },
+            {
+                "name":"VP of Sales",
+                "clicksPerSecond":10.0,
+                "cost":1000.0,
+                "costIncreaseRate":1.1
+            },
+            {
+                "name":"Subscription Services",
+                "clicksPerSecond":20.0,
+                "cost":2000.0,
+                "costIncreaseRate":1.1
+            },
+            {
+                "name":"Accountants",
+                "clicksPerSecond":25.0,
+                "cost":3000.0,
+                "costIncreaseRate":1.1
+            },
+            {
+                "name":"Investment Bankers",
+                "clicksPerSecond":50.0,
+                "cost":10000.0,
+                "costIncreaseRate":1.1
+            },
+            {
+                "name":"CEOs",
+                "clicksPerSecond":100.0,
+                "cost":20000.0,
+                "costIncreaseRate":1.1
+            },
+            {
+                "name":"MLMs",
+                "clicksPerSecond":2000.0,
+                "cost":100000.0,
+                "costIncreaseRate":1.1
+            },
+            {
+                "name":"Million Dollar Ideas",
+                "clicksPerSecond":5000.0,
+                "cost":200000.0,
+                "costIncreaseRate":1.1
+            },
+            {
+                "name":"Trillion Dollar Businesses",
+                "clicksPerSecond":10000.0,
+                "cost":1000000.0,
+                "costIncreaseRate":1.1
+            }
+        ]
+    },
+    {
+        "name":"Cookie",
+        "thing":"Cookies",
+        "thing_plural":"Cookies",
+        "bonus_plural":"Super Cookies",
+        "summaryText":"Cookies produced at the factory",
+        "color":"d3f3f6",
+        "bonus":"Super Cookie",
+        "bonus_rate": 0.5,
+        "bonus_cost": 10000000,
+        "winning_point":100000000000000,
+        "reward":1,
+        "clickers": [
+            {
+                "name":"Microwave",
+                "clicksPerSecond":0.1,
+                "cost":5.0,
+                "costIncreaseRate":1.1
+            },
+            {
+                "name":"Oven",
+                "clicksPerSecond":0.5,
+                "cost":20.0,
+                "costIncreaseRate":1.1
+            },
+            {
+                "name":"Bigger Oven",
+                "clicksPerSecond":1.0,
+                "cost":100.0,
+                "costIncreaseRate":1.1
+            },
+            {
+                "name":"Super Oven",
+                "clicksPerSecond":2.0,
+                "cost":300.0,
+                "costIncreaseRate":1.1
+            },
+            {
+                "name":"Cookie Assembly Line",
+                "clicksPerSecond":5.0,
+                "cost":1000.0,
+                "costIncreaseRate":1.1
+            },
+            {
+                "name":"Cookie Making Robot",
+                "clicksPerSecond":10.0,
+                "cost":3000.0,
+                "costIncreaseRate":1.1
+            },
+            {
+                "name":"AI That Can Make Cookies",
+                "clicksPerSecond":100.0,
+                "cost":10000.0,
+                "costIncreaseRate":1.1
+            },
+            {
+                "name":"Cookies That Make More Cookies",
+                "clicksPerSecond":1000.0,
+                "cost":30000.0,
+                "costIncreaseRate":1.1
+            },
+            {
+                "name":"Sentient Cookies",
+                "clicksPerSecond":10000.0,
+                "cost":100000.0,
+                "costIncreaseRate":1.1
+            },
+            {
+                "name":"Cookies Kings",
+                "clicksPerSecond":100000.0,
+                "cost":300000.0,
+                "costIncreaseRate":1.1
+            }
+        ]
+    },
+    {
+        "name":"Business",
+        "thing":"Business",
+        "thing_plural":"Businesses",
+        "bonus_plural":"Stocks",
+        "summaryText":"Businesses Created",
+        "color":"207280",
+        "bonus":"Stock",
+        "bonus_rate": 0.3,
+        "bonus_cost": 100000,
+        "winning_point":1000000000,
+        "reward": 1,
+        "clickers": [
+            {
+                "name":"Chatbot Free Tier",
+                "clicksPerSecond":0.1,
+                "cost":1.0,
+                "costIncreaseRate":1.01
+            },
+            {
+                "name":"Chatbot Premium",
+                "clicksPerSecond":1.0,
+                "cost":100.0,
+                "costIncreaseRate":1.01
+            },
+            {
+                "name":"Inventor",
+                "clicksPerSecond":100.0,
+                "cost":10000.0,
+                "costIncreaseRate":1.01
+            },
+            {
+                "name":"Chatbot Experimental Tier",
+                "clicksPerSecond":2.0,
+                "cost":1.0,
+                "costIncreaseRate":3.0
+            },
+            {
+                "name":"Ideation Machine",
+                "clicksPerSecond":3.0,
+                "cost":100.0,
+                "costIncreaseRate":2.0
+            }
+        ]
+    },
+    {
+        "name":"Arcade",
+        "thing":"Game",
+        "thing_plural":"Games",
+        "bonus":"Ticket",
+        "bonus_plural":"Tickets",
+        "summaryText":"Games played",
+        "color":"fdc86d",
+        "bonus_rate": 0.75,
+        "bonus_cost": 500000,
+        "winning_point":1000000000,
+        "reward": 1,
+        "clickers": [
+            {
+                "name":"Pellet Man",
+                "clicksPerSecond":1.0,
+                "cost":1.0,
+                "costIncreaseRate":1.5
+            },
+            {
+                "name":"Guitar Game",
+                "clicksPerSecond":2.0,
+                "cost":100.0,
+                "costIncreaseRate":1.4
+            },
+            {
+                "name":"Hunt the Deer",
+                "clicksPerSecond":4.0,
+                "cost":300.0,
+                "costIncreaseRate":1.3
+            },
+            {
+                "name":"Racecar Racer",
+                "clicksPerSecond":8.0,
+                "cost":900.0,
+                "costIncreaseRate":1.2
+            },
+            {
+                "name":"Fighter in the Street",
+                "clicksPerSecond":16.0,
+                "cost":2700.0,
+                "costIncreaseRate":1.1
+            },
+            {
+                "name":"Swimming Simulator",
+                "clicksPerSecond":32.0,
+                "cost":4000.0,
+                "costIncreaseRate":1.05
+            },
+            {
+                "name":"Dance it",
+                "clicksPerSecond":64.0,
+                "cost":12000.0,
+                "costIncreaseRate":1.01
+            },
+            {
+                "name":"Jackpot Game",
+                "clicksPerSecond":128.0,
+                "cost":40000.0,
+                "costIncreaseRate":1.001
+            }
+        ]
+    },
+    {
+        "name":"Sun",
+        "thing":"Energy",
+        "thing_plural":"Energy",
+        "bonus":"Cosmic Energy",
+        "bonus_plural":"Cosmic Energy",
+        "summaryText":"Energy Collected",
+        "color":"c6d731",
+        "bonus_rate": 0.01,
+        "bonus_cost": 100,
+        "winning_point":100000000000,
+        "reward": 2,
+        "clickers": [
+            {
+                "name":"Wind Mills",
+                "clicksPerSecond":1.0,
+                "cost":10.0,
+                "costIncreaseRate":1.08
+            },
+            {
+                "name":"Solar Panels",
+                "clicksPerSecond":10.0,
+                "cost":100000.0,
+                "costIncreaseRate":1.09
+            },
+            {
+                "name":"Power Plants",
+                "clicksPerSecond":100.0,
+                "cost":100000000.0,
+                "costIncreaseRate":1.1
+            }
+        ]
+    },
+    {
+        "name":"Number",
+        "thing":"Number",
+        "thing_plural":"Numbers",
+        "bonus":"Imaginary Number",
+        "bonus_plural":"Imaginary Numbers",
+        "summaryText":"Numbers Counted",
+        "color":"fdfdfd",
+        "bonus_rate": 1.0,
+        "bonus_cost": 1000000,
+        "winning_point":100,
+        "reward": 2,
+        "clickers": [
+            {
+                "name":"One",
+                "clicksPerSecond":1.0,
+                "cost":1.0,
+                "costIncreaseRate":1.1
+            },
+            {
+                "name":"Two",
+                "clicksPerSecond":2.0,
+                "cost":2.0,
+                "costIncreaseRate":1.2
+            },
+            {
+                "name":"Three",
+                "clicksPerSecond":3.0,
+                "cost":3.0,
+                "costIncreaseRate":1.3
+            },
+            {
+                "name":"Four",
+                "clicksPerSecond":4.0,
+                "cost":4.0,
+                "costIncreaseRate":1.4
+            },
+            {
+                "name":"Five",
+                "clicksPerSecond":5.0,
+                "cost":5.0,
+                "costIncreaseRate":1.5
+            },
+            {
+                "name":"Six",
+                "clicksPerSecond":6.0,
+                "cost":6.0,
+                "costIncreaseRate":1.6
+            },
+            {
+                "name":"Seven",
+                "clicksPerSecond":7.0,
+                "cost":7.0,
+                "costIncreaseRate":1.7
+            },
+            {
+                "name":"Eight",
+                "clicksPerSecond":8.0,
+                "cost":8.0,
+                "costIncreaseRate":1.8
+            },
+            {
+                "name":"Nine",
+                "clicksPerSecond":9.0,
+                "cost":9.0,
+                "costIncreaseRate":1.9
+            },
+            {
+                "name":"Ten",
+                "clicksPerSecond":10.0,
+                "cost":10.0,
+                "costIncreaseRate":2.0
+            }
+        ]
+    },
+    {
+        "name":"Popcorn",
+        "thing":"Popcorn",
+        "thing_plural":"Popcorn",
+        "bonus":"Stick of Butter",
+        "bonus_plural":"Sticks of Butter",
+        "summaryText":"Popcorn popped",
+        "color":"da3126",
+        "bonus_rate": 0.0777,
+        "bonus_cost": 1,
+        "winning_point":987654321234567890,
+        "reward": 2,
+        "clickers": [
+            {
+                "name":"Mircowave",
+                "clicksPerSecond":0.1,
+                "cost":55555.0,
+                "costIncreaseRate":1.23
+            },
+            {
+                "name":"Popcorn Machine",
+                "clicksPerSecond":0.7,
+                "cost":7777777.0,
+                "costIncreaseRate":1.23
+            },
+            {
+                "name":"Movie Theater Staff",
+                "clicksPerSecond":1.11,
+                "cost":1234567890.0,
+                "costIncreaseRate":1.23
+            }
+        ]
+    },
+    {
+        "name":"Pirate",
+        "thing":"Coin",
+        "thing_plural":"Coins",
+        "bonus":"Treasure",
+        "bonus_plural":"Treasures",
+        "summaryText":"Coins Found",
+        "color":"259ef7",
+        "bonus_rate": 0.25,
+        "bonus_cost": 2000000,
+        "winning_point":15000,
+        "reward": 2,
+        "clickers": [
+            {
+                "name":"Cabin Boys",
+                "clicksPerSecond":1.5,
+                "cost":5.0,
+                "costIncreaseRate":1.2
+            },
+            {
+                "name":"Ship Chefs",
+                "clicksPerSecond":3.7,
+                "cost":95.0,
+                "costIncreaseRate":1.2
+            },
+            {
+                "name":"Deck Hands",
+                "clicksPerSecond":5.4,
+                "cost":145.0,
+                "costIncreaseRate":1.2
+            },
+            {
+                "name":"Classic Pirates",
+                "clicksPerSecond":10.0,
+                "cost":250.0,
+                "costIncreaseRate":1.2
+            },
+            {
+                "name":"Second Mates",
+                "clicksPerSecond":44.0,
+                "cost":3000.0,
+                "costIncreaseRate":1.2
+            },
+            {
+                "name":"First Mates",
+                "clicksPerSecond":230.0,
+                "cost":80000.0,
+                "costIncreaseRate":1.2
+            },
+            {
+                "name":"Captains",
+                "clicksPerSecond":785.0,
+                "cost":200000.0,
+                "costIncreaseRate":1.2
+            },
+            {
+                "name":"Elite Captains",
+                "clicksPerSecond":1000.0,
+                "cost":1200000.0,
+                "costIncreaseRate":1.2
+            }
+        ]
+    },
+    {
+        "name":"Crypto",
+        "thing":"Crypto Currency",
+        "thing_plural":"Crypto Currencies",
+        "bonus":"NFT",
+        "bonus_plural":"NFTs",
+        "summaryText":"Crypto Currency Mined",
+        "color":"02090b",
+        "bonus_rate": 0.123,
+        "bonus_cost": 45000,
+        "winning_point":111111111111111111,
+        "reward": 3,
+        "clickers": [
+            {
+                "name":"Pen and Paper",
+                "clicksPerSecond":1.0,
+                "cost":1.0,
+                "costIncreaseRate":2.0
+            },
+            {
+                "name":"Hand-me-down Computer",
+                "clicksPerSecond":1.0,
+                "cost":100.0,
+                "costIncreaseRate":1.1
+            },
+            {
+                "name":"School Laptop",
+                "clicksPerSecond":1.0,
+                "cost":450.0,
+                "costIncreaseRate":1.05
+            },
+            {
+                "name":"Home Grown Computer Program",
+                "clicksPerSecond":1.0,
+                "cost":1000.0,
+                "costIncreaseRate":1.02
+            },
+            {
+                "name":"4455X Gen Y Card",
+                "clicksPerSecond":1.0,
+                "cost":7000.0,
+                "costIncreaseRate":1.01
+            },
+            {
+                "name":"Graphics Card Network",
+                "clicksPerSecond":1.0,
+                "cost":100000.0,
+                "costIncreaseRate":1.001
+            },
+            {
+                "name":"Super Computer",
+                "clicksPerSecond":1.0,
+                "cost":873423.0,
+                "costIncreaseRate":1.0001
+            },
+            {
+                "name":"Quantum Computer",
+                "clicksPerSecond":1.0,
+                "cost":1000000000000.0,
+                "costIncreaseRate":1.0
+            }
+        ]
+    },
+    {
+        "name":"Startup",
+        "thing":"Software Program",
+        "thing_plural":"Software Programs",
+        "bonus":"Investor",
+        "bonus_plural":"Investors",
+        "summaryText":"Software written",
+        "color":"9bc2c9",
+        "bonus_rate": 0.001,
+        "bonus_cost": 1000,
+        "winning_point":78787834783,
+        "reward": 3,
+        "clickers": [
+            {
+                "name":"Junior Developers",
+                "clicksPerSecond":0.5,
+                "cost":25.0,
+                "costIncreaseRate":1.1
+            },
+            {
+                "name":"Developers",
+                "clicksPerSecond":1.0,
+                "cost":100.0,
+                "costIncreaseRate":1.1
+            },
+            {
+                "name":"Senior Developers",
+                "clicksPerSecond":5.0,
+                "cost":500.0,
+                "costIncreaseRate":1.1
+            },
+            {
+                "name":"Staff Engineers",
+                "clicksPerSecond":7.0,
+                "cost":100000.0,
+                "costIncreaseRate":1.1
+            },
+            {
+                "name":"Software Architects",
+                "clicksPerSecond":10.0,
+                "cost":500000.0,
+                "costIncreaseRate":1.1
+            },
+            {
+                "name":"CTOs",
+                "clicksPerSecond":20.0,
+                "cost":2500000.0,
+                "costIncreaseRate":1.1
+            },
+            {
+                "name":"Code Masters",
+                "clicksPerSecond":30.0,
+                "cost":2000000000.0,
+                "costIncreaseRate":1.1
+            },
+            {
+                "name":"Code PhDs",
+                "clicksPerSecond":40.0,
+                "cost":3000000000.0,
+                "costIncreaseRate":1.1
+            },
+            {
+                "name":"Language Writers",
+                "clicksPerSecond":50.0,
+                "cost":7000000000.0,
+                "costIncreaseRate":1.1
+            },
+            {
+                "name":"Compiler Writers",
+                "clicksPerSecond":60.0,
+                "cost":20000000000.0,
+                "costIncreaseRate":1.1
+            },
+            {
+                "name":"Computer Builders",
+                "clicksPerSecond":70.0,
+                "cost":1000000000000.0,
+                "costIncreaseRate":1.1
+            }
+        ]
+    },
+    {
+        "name":"Lumber",
+        "thing":"Wood",
+        "thing_plural":"Wood",
+        "bonus":"Axe",
+        "bonus_plural":"Axes",
+        "summaryText":"Wood chopped",
+        "color":"a2c848",
+        "bonus_rate": 1.0,
+        "bonus_cost": 1000,
+        "winning_point":45000300000,
+        "reward": 3,
+        "clickers": [
+            {
+                "name":"More Lumberjacks",
+                "clicksPerSecond":500000000000.0,
+                "cost":1000000000000.0,
+                "costIncreaseRate":1.000001
+            }
+        ]
+    },
+    {
+        "name":"Airplane",
+        "thing":"Flight",
+        "thing_plural":"Flights",
+        "bonus":"Pilot",
+        "bonus_plural":"Pilots",
+        "summaryText":"Flights Safely Flown",
+        "color":"527e89",
+        "bonus_rate": 0.02,
+        "bonus_cost": 2101010,
+        "winning_point":10101010101010,
+        "reward": 2,
+        "clickers": [
+            {
+                "name":"Budget Plane",
+                "clicksPerSecond":5.0,
+                "cost":200.0,
+                "costIncreaseRate":1.1
+            },
+            {
+                "name":"Small Plane",
+                "clicksPerSecond":10.0,
+                "cost":500.0,
+                "costIncreaseRate":1.1
+            },
+            {
+                "name":"Normal Plane",
+                "clicksPerSecond":25.0,
+                "cost":3000.0,
+                "costIncreaseRate":1.1
+            },
+            {
+                "name":"Fun Plane",
+                "clicksPerSecond":100.0,
+                "cost":20000.0,
+                "costIncreaseRate":1.1
+            },
+            {
+                "name":"Big Plane",
+                "clicksPerSecond":300.0,
+                "cost":100000.0,
+                "costIncreaseRate":1.1
+            },
+            {
+                "name":"Fast Plane",
+                "clicksPerSecond":1000.0,
+                "cost":500000.0,
+                "costIncreaseRate":1.1
+            },
+            {
+                "name":"Elite Plane",
+                "clicksPerSecond":1500.0,
+                "cost":1000000.0,
+                "costIncreaseRate":1.1
+            },
+            {
+                "name":"Teleporting Plane",
+                "clicksPerSecond":10000.0,
+                "cost":100000000.0,
+                "costIncreaseRate":1.1
+            }
+        ]
+    },
+    {
+        "name":"Jet",
+        "thing":"Mile",
+        "thing_plural":"Miles",
+        "bonus":"",
+        "bonus_plural":"",
+        "summaryText":"Miles Flown",
+        "color":"1e6f80",
+        "bonus_rate": 1.0,
+        "bonus_cost": 1000,
+        "winning_point":45000300000,
+        "reward": 2,
+        "clickers": [
+            {
+                "name":"More Lumberjacks",
+                "clicksPerSecond":500000000000.0,
+                "cost":1000000000000.0,
+                "costIncreaseRate":1.000001
+            }
+        ]
+    },
+    {
+        "name":"Poker",
+        "thing":"Poker Hand",
+        "thing_plural":"Poker Hands",
+        "bonus":"Chip",
+        "bonus_plural":"Chips",
+        "summaryText":"Poker Hands Played",
+        "color":"992520",
+        "bonus_rate": 0.03,
+        "bonus_cost": 3333333,
+        "winning_point":888888888888,
+        "reward": 2,
+        "clickers": [
+            {
+                "name":"Two",
+                "clicksPerSecond":3.0,
+                "cost":5.0,
+                "costIncreaseRate":1.1
+            },
+            {
+                "name":"Three",
+                "clicksPerSecond":9.0,
+                "cost":25.0,
+                "costIncreaseRate":1.1
+            },
+            {
+                "name":"Four",
+                "clicksPerSecond":27.0,
+                "cost":125.0,
+                "costIncreaseRate":1.1
+            },
+            {
+                "name":"Five",
+                "clicksPerSecond":81.0,
+                "cost":625.0,
+                "costIncreaseRate":1.1
+            },
+            {
+                "name":"Six",
+                "clicksPerSecond":243.0,
+                "cost":3125.0,
+                "costIncreaseRate":1.1
+            },
+            {
+                "name":"Seven",
+                "clicksPerSecond":729.0,
+                "cost":15625.0,
+                "costIncreaseRate":1.1
+            },
+            {
+                "name":"Eight",
+                "clicksPerSecond":2187.0,
+                "cost":78125.0,
+                "costIncreaseRate":1.1
+            },
+            {
+                "name":"Nine",
+                "clicksPerSecond":6561.0,
+                "cost":390625.0,
+                "costIncreaseRate":1.1
+            },
+            {
+                "name":"Ten",
+                "clicksPerSecond":19683.0,
+                "cost":1953125.0,
+                "costIncreaseRate":1.1
+            },
+            {
+                "name":"Jack",
+                "clicksPerSecond":59059.0,
+                "cost":9765625.0,
+                "costIncreaseRate":1.1
+            },
+            {
+                "name":"Queen",
+                "clicksPerSecond":177147.0,
+                "cost":48828125.0,
+                "costIncreaseRate":1.1
+            },
+            {
+                "name":"King",
+                "clicksPerSecond":531411.0,
+                "cost":244140625.0,
+                "costIncreaseRate":1.1
+            },
+            {
+                "name":"Ace",
+                "clicksPerSecond":1594323.0,
+                "cost":1220703000.0,
+                "costIncreaseRate":1.1
+            }
+        ]
+    },
+    {
+        "name":"Football",
+        "thing":"Game",
+        "thing_plural":"Games",
+        "bonus":"Fan",
+        "bonus_plural":"Fans",
+        "summaryText":"Games Won",
+        "color":"4d6c82",
+        "bonus_rate": 0.001,
+        "bonus_cost": 1000,
+        "winning_point":5000000000,
+        "reward": 2,
+        "clickers": [
+            {
+                "name":"Waterboys",
+                "clicksPerSecond":1.0,
+                "cost":10.0,
+                "costIncreaseRate":3.0
+            },
+            {
+                "name":"Bench Warmers",
+                "clicksPerSecond":3.0,
+                "cost":75.0,
+                "costIncreaseRate":1.1
+            },
+            {
+                "name":"Linebackers",
+                "clicksPerSecond":12.0,
+                "cost":235.0,
+                "costIncreaseRate":1.1
+            },
+            {
+                "name":"Defensive Tackle",
+                "clicksPerSecond":22.0,
+                "cost":540.0,
+                "costIncreaseRate":1.2
+            },
+            {
+                "name":"Cornerback",
+                "clicksPerSecond":45.0,
+                "cost":990.0,
+                "costIncreaseRate":1.5
+            },
+            {
+                "name":"Tight End",
+                "clicksPerSecond":75.0,
+                "cost":1500.0,
+                "costIncreaseRate":2.0
+            },
+            {
+                "name":"Full Back",
+                "clicksPerSecond":100.0,
+                "cost":2000.0,
+                "costIncreaseRate":4.0
+            },
+            {
+                "name":"Center",
+                "clicksPerSecond":250.0,
+                "cost":5000.0,
+                "costIncreaseRate":4.0
+            },
+            {
+                "name":"Safety",
+                "clicksPerSecond":333.0,
+                "cost":10000.0,
+                "costIncreaseRate":5.0
+            },
+            {
+                "name":"Running Back",
+                "clicksPerSecond":500.0,
+                "cost":25000.0,
+                "costIncreaseRate":3.0
+            },
+            {
+                "name":"Kicker",
+                "clicksPerSecond":1000.0,
+                "cost":85000.0,
+                "costIncreaseRate":3.0
+            },
+            {
+                "name":"Wide Receiver",
+                "clicksPerSecond":2300.0,
+                "cost":220000.0,
+                "costIncreaseRate":3.0
+            },
+            {
+                "name":"Quartberback",
+                "clicksPerSecond":7700.0,
+                "cost":800000.0,
+                "costIncreaseRate":8.0
+            }
+        ]
+    }
+]

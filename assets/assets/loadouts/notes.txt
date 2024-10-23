@@ -1,0 +1,13 @@
+static const String levelOne = "Interns";
+  static const String levelTwo = "Junior Developers";
+  static const String levelThree = "Developers";
+  static const String levelFour = "Senior Developers";
+  static const String levelFive = "Staff Engineers";
+  static const String levelSix = "Software Architects";
+  static const String levelSeven = "CTOs";
+  static const String levelEight = "Code Masters";
+  static const String levelNine = "Code PhDs";
+  static const String levelTen = "Language Writers";
+  static const String levelEleven = "Compiler Writers";
+  static const String levelTweleve = "Computer Builders";
+

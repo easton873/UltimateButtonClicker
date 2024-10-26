@@ -595,6 +595,7 @@
         "bonus_plural":"NFTs",
         "summaryText":"Crypto Currency Mined",
         "color":"02090b",
+        "secondaryColor":"89e389",
         "bonus_rate": 0.123,
         "bonus_cost": 45000,
         "winning_point":111111111111111111,

@@ -19,14 +19,14 @@
                 "costIncreaseRate":1.5
             },
             {
-                "name":"Faster Clicker",
+                "name":"Fast Clicker",
                 "clicksPerSecond":5.0,
                 "cost":10.0,
                 "costIncreaseRate":1.5
             },
             {
-                "name":"Even Faster Clicker",
-                "clicksPerSecond":10.0,
+                "name":"Really Fast Clicker",
+                "clicksPerSecond":20.0,
                 "cost":20.0,
                 "costIncreaseRate":1.1
             }
